@@ -1,4 +1,4 @@
 # Infographic
 
  #### Used adobe indesign and illustrator for my infographic.
-![document](infographic.jpg) 
+![document](infographic.JPG) 
